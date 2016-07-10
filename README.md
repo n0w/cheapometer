@@ -1,2 +1,3 @@
 # cheapometer
 ESP8266 + DHT22 sensor with domoticz integration
+[[https://github.com/n0w/cheapometer/blob/master/DHT22_schem.png|alt=connections schematic]]
